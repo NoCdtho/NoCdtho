@@ -7,12 +7,12 @@
 
 
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Dart, Python, C, Kotlin |
-| **Frontend** | Flutter (Android/iOS/Web/Desktop) |
+| **Frontend** | Flutter
 | **Backend** | Python (FastAPI, Flask, Django), Spring Boot |
 | **Data & Tools** | Pandas, Scikit-learn, Git/GitHub, Android Studio, VS Code |
 | **Specialties** | Data Structures & Algorithms, Network Security, AI Agents (LangChain) |

@@ -1,7 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
-
-# I'm Rohit Gupta
+# Hey, I'm Rohit Gupta
   
   a B.Tech undergrad student focused on building high-performance, full-stack applications. I enjoy bridging the gap between elegant mobile UIs and powerful backend engines. Currently       preparing for Summer 2026 Software Engineering
 

@@ -15,7 +15,7 @@
 | **Frontend** | Flutter
 | **Backend** | Python (FastAPI, Flask, Django), Spring Boot |
 | **Data & Tools** | Pandas, Scikit-learn, Git/GitHub, Android Studio, VS Code |
-| **Specialties** | Data Structures & Algorithms, Network Security, AI Agents (LangChain) |
+| **Specialties** | Data Structures & Algorithms, Network Security, AI models |
 
 
 

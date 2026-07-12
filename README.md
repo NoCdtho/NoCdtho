@@ -7,7 +7,7 @@
 </p>
   
   <p align="center">
-    a B.Tech undergrad student focused on building high-performance, full-stack applications. I enjoy bridging the gap between elegant mobile UIs and powerful backend engines. Currently       preparing for Summer      2026 Software Engineering
+   I am a B.Tech undergrad student focused on building high-performance, full-stack applications. I enjoy bridging the gap between elegant mobile UIs and powerful backend engines. Currently preparing to become a Software Engineer in this new era.
   </p>
 
 

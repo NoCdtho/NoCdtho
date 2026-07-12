@@ -10,7 +10,7 @@
    I am a B.Tech undergrad student focused on building high-performance, full-stack applications. I enjoy bridging the gap between elegant mobile UIs and powerful backend engines. Currently preparing to become a better Software Engineer in this new era.
   </p>
 
-<p allign="center">
+
 ### My Tech Stack
 
 | Category | Technologies |
@@ -20,7 +20,6 @@
 | **Backend** | Python (FastAPI, Flask, Django), Spring Boot |
 | **Data & Tools** | Pandas, Scikit-learn, Git/GitHub, Android Studio, VS Code |
 | **Specialties** | Data Structures & Algorithms, Network Security, AI models |
-</p>
 
 
 
